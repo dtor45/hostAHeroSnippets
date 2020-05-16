@@ -1,0 +1,24 @@
+.reviewDateAndRating {
+    font-weight: bold;
+    font-size: .75rem;
+}
+
+.listGroupItem {
+    color: black;
+}
+
+.reviewerImg {
+    object-fit: cover;
+    width: 48px;
+    height: 48px;
+    border-radius: 50%;
+}
+
+.reviewerName {
+    font-size: .875rem;
+    font-weight: 500;
+}
+
+.reviewerJoinYear {
+    font-size: 12;
+}
